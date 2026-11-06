@@ -20,4 +20,3 @@ definition here is bumped and `brew upgrade` picks it up.
 ## Links
 
 - Homepage: https://pellucid-pdf.com/
-- Downloads: https://downloads.pellucid-pdf.com/releases/
